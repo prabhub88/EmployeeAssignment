@@ -1,0 +1,5 @@
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DomainModels\obj\Debug\netstandard2.0\DomainModels.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DomainModels\obj\Debug\netstandard2.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DomainModels\obj\Debug\netstandard2.0\DomainModels.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DomainModels\obj\Debug\netstandard2.0\DomainModels.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DomainModels\obj\Debug\netstandard2.0\DomainModels.csproj.CoreCompileInputs.cache

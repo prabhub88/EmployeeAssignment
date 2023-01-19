@@ -1,0 +1,74 @@
+﻿@model Employees.Web.Pages.Employee.CreateSalaryModel
+@{
+
+}
+
+<form method="post" asp-page-handler="CreateSalary">
+     
+    <table class="mb-3">
+               <tr>
+                   <td>
+                       <label class="form-label" for="emplid"> Please enter employye ID:</label>
+                   </td>
+                   <td>
+                       <input type="text" class="form-control" asp-for="@Model.search_employeeID" />
+                   </td>
+                   <td>
+                       <button type="submit" asp-page="CreateSalary" asp-page-handler="SearchEmployee" class="btn btn-primary">Search</button>
+                   </td>
+               </tr>
+               </table>
+               <label for="sercherr" class="text-danger" style="display: @(Model.showSearchError.Length > 0 ? "block" : "none")">@Model.showSearchError</label>
+</form>
+<form method="post" asp-page-handler="CreateSalary">
+       <div style="padding-left:30px;padding-top:30px; display: @(Model.search_employeeID > 0 && (Model.first_name !=null && Model.first_name.Length > 0) ? "block" : "none");">
+           <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           <table class="mb-3">
+               <tr>
+                   <td>
+                       <label class="form-label" for="empid">Employye ID:</label>
+                   </td>
+                   <td>
+                       <input type="text" style="max-width:92%" class="form-control" readonly="readonly" asp-for="@Model.search_employeeID" />
+                   </td>
+               </tr>
+                <tr>
+                   <td>
+                       <label class="form-label" for="empfname">First Name</label>
+                   </td>
+                   <td>
+                        <input type="text" style="max-width:92%" class="form-control" asp-for="@Model.first_name" />
+                   </td>
+               </tr>
+                <tr>
+                   <td>
+                       <label class="form-label" for="emplname">Last Name</label>
+                   </td>
+                   <td>
+                        <input type="text" style="max-width:92%" class="form-control" asp-for="@Model.last_ame" />      
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       <label class="form-label" for="saldate">Salary date:</label>
+                   </td>
+                   <td>
+                       <input class="form-control" id="saldate"  asp-for="employeeSalary.SalaryDate" style="width:185px" />
+                         <span class="text-danger" asp-validation-for="employeeSalary.SalaryDate"></span>
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       <label class="form-label" for="city">Salary:</label>
+                   </td>
+                   <td>
+                        <input type="text" class="form-label" id="salary"  asp-for="employeeSalary.Amount" />
+                        <span class="text-danger" asp-validation-for="employeeSalary.Amount"></span>
+                   </td>
+               </tr>
+           </table>
+       <div>
+           <button id="btnsubmit" class="btn btn-primary" type="submit">Submit</button>
+       </div>
+       </div>
+   </form>

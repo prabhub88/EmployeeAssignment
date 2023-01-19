@@ -1,0 +1,27 @@
+﻿
+@model List<DomainModels.DTOs.Employee.Read_EmployeeSalary_Dto>
+@{
+}
+
+<table class="table" id="empssallist">
+   <thead>
+       <tr>
+           <td>EmployeeID</td>
+           <td>Salary Date</td>
+           <td>Salary</td>
+       </tr>
+   </thead>
+   <tbody>
+        @foreach(var emp in Model)
+        {
+                <tr>
+                    <td>@emp.EmployeeId</td>
+                    <td> @emp.SalaryDate</td>
+                     <td>@emp.Amount</td>
+                </tr>
+
+                 
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,38 @@
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.deps.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\DomainModels.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.csproj.CoreCompileInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.csproj.CopyComplete
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\refint\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\ref\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.runtimeconfig.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.genruntimeconfig.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.deps.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.runtimeconfig.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\EntityFrameWorkDAL.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\DomainModels.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.csproj.CoreCompileInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.csproj.CopyComplete
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\refint\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\EntityFrameWorkDAL.genruntimeconfig.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\EntityFrameWorkDAL\obj\Debug\net6.0\ref\EntityFrameWorkDAL.dll

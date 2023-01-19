@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Af0RHtItCUBO/EYoUXGZl4kxJtN1SWa6+0uJejErV62FJRL+89POVHCjNL05+Uo38Pe4oiFlDxfYounqAQHZ8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PBaskaran\\source\\repos\\GithubProjects\\DAL\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PBaskaran\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,30 @@
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\bin\Debug\net6.0\Core.deps.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\bin\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\bin\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\bin\Debug\net6.0\DomainModels.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.csproj.CopyComplete
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\refint\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\DAL\obj\Debug\net6.0\ref\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\bin\Debug\net6.0\Core.deps.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\bin\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\bin\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\bin\Debug\net6.0\DomainModels.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.csproj.CopyComplete
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\refint\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\DAL\obj\Debug\net6.0\ref\Core.dll

@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Employees.Web
+build_property.RootNamespace = Employees.Web
+build_property.ProjectDir = C:\Users\PBaskaran\source\repos\GithubProjects\Employees.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\PBaskaran\source\repos\GithubProjects\Employees.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/CreateSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcQ3JlYXRlU2FsYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/ShowSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcU2hvd1NhbGFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/_employeeCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcX2VtcGxveWVlQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/_employeeSalary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcX2VtcGxveWVlU2FsYXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Employee/_employeesalarycreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVcX2VtcGxveWVlc2FsYXJ5Y3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PBaskaran/source/repos/GithubProjects/Employees.Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-23zmlvfp9l

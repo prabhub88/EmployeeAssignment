@@ -1,0 +1,150 @@
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Employees.Web.staticwebassets.runtime.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Employees.Web.exe
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Employees.Web.deps.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Employees.Web.runtimeconfig.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Employees.Web.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.csproj.CoreCompileInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.RazorAssemblyInfo.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.RazorAssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.Employees.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees.Web.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees.Web.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees.Web.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\scopedcss\bundle\Employees.Web.styles.css
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\scopedcss\projectbundle\Employees.Web.bundle.scp.css
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\refint\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.genruntimeconfig.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\ref\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\DomainModels.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\EntityFrameWorkDAL.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\obj\Debug\net6.0\Employees.Web.csproj.CopyComplete
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\libman.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\libman.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Employees.Web.staticwebassets.runtime.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Employees.Web.exe
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Employees.Web.deps.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Employees.Web.runtimeconfig.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Employees.Web.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Core.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\DomainModels.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\EntityFrameWorkDAL.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\Core.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\EntityFrameWorkDAL.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\bin\Debug\net6.0\DomainModels.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.csproj.AssemblyReference.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.AssemblyInfoInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.AssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.csproj.CoreCompileInputs.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.RazorAssemblyInfo.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.RazorAssemblyInfo.cs
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.Employees.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees.Web.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees.Web.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees.Web.props
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\scopedcss\bundle\Employees.Web.styles.css
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\scopedcss\projectbundle\Employees.Web.bundle.scp.css
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.csproj.CopyComplete
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\refint\Employees.Web.dll
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.pdb
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\Employees.Web.genruntimeconfig.cache
+C:\Users\PBaskaran\source\repos\EmployeeAssignment - Copy\Employees.Web\obj\Debug\net6.0\ref\Employees.Web.dll

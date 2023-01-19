@@ -1,0 +1,49 @@
+﻿@model Employees.Web.Pages.Employee.CreateModel
+@{
+}
+
+ <form method="post" asp-page-handler="Create">
+       <div>
+           <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           <table class="mb-3">
+               <tr>
+                   <td>
+                       <label class="form-label" for="fname">First Name:</label>
+                   </td>
+                   <td>
+                       <input type="text" class="form-label" id="FirstName" asp-for="employees.FirstName" />
+                   <span class="text-danger" asp-validation-for="employees.FirstName"></span>
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       <label class="form-label" for="lname">Last Name:</label>
+                   </td>
+                   <td>
+                       <input type="text" class="form-label" id="LastName"  asp-for="employees.LastName" />
+                        <span class="text-danger" asp-validation-for="employees.LastName"></span>
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                       <label class="form-label" for="city">City:</label>
+                   </td>
+                   <td>
+                        <input type="text" class="form-label" id="City"  asp-for="employees.City" />
+                         <span class="text-danger" asp-validation-for="employees.City"></span>
+                   </td>
+               </tr>
+               <tr>
+                   <td>
+                        <label for="zip">Zip:</label>
+                   </td>
+                   <td>
+                       <input type="text" class="form-label" id="Zip"  asp-for="employees.Zip" />
+                        <span class="text-danger" asp-validation-for="employees.Zip"></span>
+                   </td>
+               </tr>
+           </table>
+       <div>
+           <button id="btnsubmit" class="btn btn-primary" type="submit">Submit</button>
+       </div>
+   </form>
