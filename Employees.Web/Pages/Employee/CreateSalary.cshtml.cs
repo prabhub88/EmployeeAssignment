@@ -13,11 +13,13 @@ namespace Employees.Web.Pages.Employee
     {
         private readonly IEmployeeRepo _employeeRepo;
         private readonly IMapper _mapper;
+        private readonly ILogger<CreateSalaryModel> _logger;
 
-        public CreateSalaryModel(IEmployeeRepo  employeeRepo,IMapper mapper)
+        public CreateSalaryModel(IEmployeeRepo  employeeRepo,IMapper mapper, ILogger<CreateSalaryModel> logger)
         {
            _employeeRepo = employeeRepo;
             _mapper = mapper;
+            _logger = logger;
         }
         [BindProperty]
         
@@ -49,7 +51,7 @@ namespace Employees.Web.Pages.Employee
                 ModelState.AddModelError("Amount", "Please enter correct amount");
                 return Page();
             }
-
+            _logger.LogInformation("LOG : Creating new employee salary, model state valid");
             var dbEmpsalModel = _mapper.Map<EmployeeSalary>(employeeSalary);
                 dbEmpsalModel.CreatedDate = DateTime.Now;
                 dbEmpsalModel.EmployeeId = search_employeeID;
@@ -66,13 +68,17 @@ namespace Employees.Web.Pages.Employee
                 var emp = _employeeRepo.findById(search_employeeID);
                 if (emp != null && emp.Id > 0)
                 {
+                    _logger.LogInformation("LOG : employee found for ID ,{0}", search_employeeID.ToString());
                     var emp_dto = _mapper.Map<Read_Employee_Dto>(emp);
                     employeeSalary.Employee_Id = search_employeeID;
                     first_name = emp.FirstName;
                     last_ame = emp.LastName;
                 }
                 else
+                {
+                    _logger.LogInformation("LOG : employee not found for ID ,{0}",search_employeeID.ToString());
                     showSearchError = "Employee could not be found";
+                }
             }
             else
             {

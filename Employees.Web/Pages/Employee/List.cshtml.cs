@@ -11,6 +11,8 @@ namespace Employees.Web.Pages.Employee
     {
         private readonly IEmployeeRepo _employeeRepo;
         public readonly IMapper _mapper;
+        private readonly ILogger<ListModel> _logger;
+
         public List<Read_Employee_Dto> list_employyes { get; set; } = new List<Read_Employee_Dto>();
 
         public Create_Employee_Dto Create_Employee { get; set; }
@@ -19,10 +21,11 @@ namespace Employees.Web.Pages.Employee
 
         [BindProperty]
         public List<Read_EmployeeSalary_Dto> list_emp_sal { get; set; } = new List<Read_EmployeeSalary_Dto>();
-        public ListModel(IEmployeeRepo employeeRepo, IMapper mapper)
+        public ListModel(IEmployeeRepo employeeRepo, IMapper mapper, ILogger<ListModel> logger)
         {
             _employeeRepo = employeeRepo;
             _mapper = mapper;
+            _logger = logger;
         }
         public void OnGet()
         {
@@ -32,6 +35,7 @@ namespace Employees.Web.Pages.Employee
 
         public void OnPostEmpIdClick(int empid)
         {
+            _logger.LogInformation("LOG : getting salary for {0}",empid.ToString());
             var emp = _employeeRepo.getSalaryById(empid);
             list_emp_sal = _mapper.Map<List<Read_EmployeeSalary_Dto>>(emp);
             canShowModelPoup = 1;
